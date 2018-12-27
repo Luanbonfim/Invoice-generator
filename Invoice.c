@@ -16,9 +16,6 @@ Por último, faça uma função para ler e imprimir o conteúdo da nota fiscal n
 #include <locale.h>
 #include <ctype.h>
 
-//perdoa meu typedef com 2 nomes na struct, não deu tempo de arrumar :p
-
-
 //declaração das structs 
 typedef struct cliente{
 	char cpf[12];
