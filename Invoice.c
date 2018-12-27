@@ -41,9 +41,6 @@ typedef struct notaf{
 	float valoruni;
 	float total;
 }nota;
-
-
-
 //------------------------------------------------------------------------------------
 //Opção 1
 void cadastrocliente (){
